@@ -1,14 +1,24 @@
-New Delhi is the capital city of India. It is a part of the city of Delhi’s 11 districts. The city itself has a population of 257,803. However, the much larger metro 
-area has a population that exceeds 26 million. New Delhi are used interchangeably to refer to the National Capital Territory of Delhi (NCT), these are two distinct entities, 
-with New Delhi forming a small part of Delhi. The National Capital Region is a much larger entity comprising the entire NCT along with adjoining districts in neighboring 
-states. The official language of New Delhi and the one that is most widely spoken is Hindi. However, English is also spoken as a formal language within businesses and 
-government agencies. Over last decades it is continuously grow because of the city’s important role in government and commercial business. With it’s diverse culture , 
-comes diverse food items. There are many restaurants in New Delhi City, each belonging to different categories like Chinese , Italian , French etc. So as part of this project , 
-we will list and visualize all major parts of New Delhi City .
+Bangalore officially known as Bengaluru, is the capital and the largest city of the Indian state of Karnataka. It has a population of more than 
+8 million and a metropolitan population of around 11 million, making it the third most populous city and fifth most populous urban agglomeration in India.
+Located in southern India on the Deccan Plateau, at a height of over 900 m (3,000 ft) above sea level, Bangalore is known for its pleasant climate throughout the year. 
+Its elevation is the highest among the major cities of India.[14]
+
+The city's history dates back to around 890 CE, in a stone inscription found at the Nageshwara Temple in Begur, Bangalore. The Begur inscription is written in Halegannada 
+(ancient Kannada), mentions 'Bengaluru Kalaga' . It was a significant turning point in the history of Bangalore as it bears the earliest 
+reference to the name 'Bengaluru'. In 1537 CE, Kempé Gowdā – a feudal ruler under the Vijayanagara Empire – established a mud fort considered to be the foundation of 
+modern Bangalore and its oldest areas, or petes, which exist to the present day. After the fall of Vijayanagar empire in 16th century, the Mughals sold Bangalore to 
+Chikkadevaraja Wodeyar (1673–1704), the then ruler of the Kingdom of Mysore for three lakh rupees.[16] When Haider Ali seized control of the Kingdom of Mysore, 
+the administration of Bangalore passed into his hands. It was captured by the British East India Company after victory in the Fourth Anglo-Mysore War (1799), who returned 
+administrative control of the city to the Maharaja of Mysore. The old city developed in the dominions of the Maharaja of Mysore and was made capital of the Princely 
+State of Mysore, which existed as a nominally sovereign entity of the British Raj. In 1809, the British shifted their cantonment to Bangalore, outside the old city, 
+and a town grew up around it, which was governed as part of British India. Following India's independence in 1947, Bangalore became the capital of Mysore State, and 
+remained capital when the new Indian state of Karnataka was formed in 1956. The two urban settlements of Bangalore – city and cantonment – which had developed as independent 
+entities merged into a single urban centre in 1949. The existing Kannada name, Bengalūru, was declared the official name of the city in 2006.
+
 
 Questions that can be asked using the above mentioned datasets
-What is best location in New Delhi City for Chinese Cuisine ?
+What is best location in Banglore City for Chinese Cuisine ?
 Which areas have large number of Chinese Resturant Market ?
 Which all areas have less number of resturant ?
 Which is the best place to stay if I prefer Chinese Cuisine ?
-What places are have best restaurant in New Delhi?
+What places are have best restaurant in Banglore?
